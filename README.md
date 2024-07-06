@@ -1,8 +1,8 @@
-# fluttergpt
+# JaumeGPT
 
-A new Flutter project.
+An alternative to ChatGPT 
 
-## Getting Started
+## Get it working for you
 
 This project is a starting point for a Flutter application.
 
